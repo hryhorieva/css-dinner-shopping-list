@@ -61,7 +61,7 @@ body {
 *{transition: all .1s ease-in;}
 
 .mainer {
-    max-width: 795px;
+    max-width: 600px;
     padding: 0 15px;
     margin: 0 auto;
 }
@@ -88,7 +88,7 @@ header h2 {
     line-height: 40px;
     padding: 5px;
     list-style: none;
-    background-size: 795px;
+    background-size: 600px;
     background-color: #88839e;
     border: 2px solid transparent;
 }
